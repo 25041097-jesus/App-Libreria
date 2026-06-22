@@ -11,7 +11,7 @@ public class App {
 
         System.out.println("Bienvenidos al sistema de administración de la Librería");
         
-        // CO
+    
         while (opc != 4) {
             System.out.println("Escribe el número de la sección ver");
             System.out.println("1. Libros");
